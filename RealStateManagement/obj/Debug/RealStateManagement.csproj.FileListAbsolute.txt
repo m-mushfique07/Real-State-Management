@@ -1,0 +1,10 @@
+D:\Projects\RealStateManagement\RealStateManagement\bin\Debug\RealStateManagement.exe.config
+D:\Projects\RealStateManagement\RealStateManagement\bin\Debug\RealStateManagement.exe
+D:\Projects\RealStateManagement\RealStateManagement\bin\Debug\RealStateManagement.pdb
+D:\Projects\RealStateManagement\RealStateManagement\obj\Debug\RealStateManagement.csprojResolveAssemblyReference.cache
+D:\Projects\RealStateManagement\RealStateManagement\obj\Debug\RealStateManagement.Dashboard.resources
+D:\Projects\RealStateManagement\RealStateManagement\obj\Debug\RealStateManagement.Properties.Resources.resources
+D:\Projects\RealStateManagement\RealStateManagement\obj\Debug\RealStateManagement.csproj.GenerateResource.Cache
+D:\Projects\RealStateManagement\RealStateManagement\obj\Debug\RealStateManagement.exe
+D:\Projects\RealStateManagement\RealStateManagement\obj\Debug\RealStateManagement.pdb
+D:\Projects\RealStateManagement\RealStateManagement\obj\Debug\RealStateManagement.AddSociety.resources
